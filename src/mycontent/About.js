@@ -7,7 +7,7 @@ import Button from 'react-bootstrap/Button';
 import './About.css'
 import image7 from '../images/img.JPG'
 import 'animate.css';
-import res from './Resume.pdf'
+import res from './Girish.pdf'
 
 export const About = () => {
   return (
