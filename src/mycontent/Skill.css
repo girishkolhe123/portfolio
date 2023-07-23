@@ -1,0 +1,120 @@
+.container{
+    margin-top: 20px;
+    margin-bottom:30px;
+}
+
+#text1{
+    color: red;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+#text2{
+    color: white;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+.card1{
+    background-color:rgba(255, 255, 255, 0.128);
+    color: white;
+    width: 400px;
+    text-align: center;
+    
+}
+.card1:hover
+{
+    transform: scale(1.1);
+    transition: 1s ease;
+}
+
+.card2{
+    background-color: rgba(255, 255, 255, 0.128);
+    color: white;
+    width: 400px;
+}
+.card2:hover
+{
+    transform: scale(1.1);
+    transition: 1s ease;
+}
+
+.card3{
+    background-color: rgba(255, 255, 255, 0.128);
+    color: white;
+    width: 400px;
+}
+.card3:hover
+{
+    transform: scale(1.1);
+    transition: 1s ease;
+}
+
+.card4{
+    background-color:rgba(255, 255, 255, 0.128);
+    color: white;
+    width: 400px;
+    margin-top: 20px;
+}
+.card4:hover
+{
+    transform: scale(1.1);
+    transition: 1s ease;
+}
+
+.card5{
+    background-color: rgba(255, 255, 255, 0.128);
+    color: white;
+    width: 400px;
+    margin-top: 20px;
+}
+.card5:hover
+{
+    transform: scale(1.1);
+    transition: 1s ease;
+}
+
+.card6{
+    background-color: rgba(255, 255, 255, 0.128);
+    color: white;
+    width: 400px;
+    margin-top: 20px;
+}
+.card6:hover
+{
+    transform: scale(1.1);
+    transition: 1s ease;
+}
+
+.c{
+    width: 140px;
+    margin-top: 15px;
+    
+   
+}
+
+.java{
+    width: 140px;
+    margin-top: 15px;
+  
+}
+
+.html{
+    width: 140px;
+    margin-top: 15px;
+   
+}
+
+.css{
+    width: 140px;
+    margin-top: 15px;
+}
+
+.js{
+    width: 140px;
+    margin-top: 15px;
+    
+}
+
+.react{
+    width: 140px;
+    margin-top: 15px;
+   
+}

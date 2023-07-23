@@ -1,0 +1,24 @@
+.footer{
+    position:sticky;
+    margin-bottom: 0px;
+    width: 100%;
+    margin-top: 30px;
+    height: 70px;
+   
+    
+  
+    
+}
+
+.footer1{
+    font-size: medium;
+    margin-bottom: 0px;
+    color: white;
+    /* margin-bottom: -25px; */
+    
+}
+
+.footer1:hover{
+    
+    color: white;
+}

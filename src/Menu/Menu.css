@@ -1,0 +1,13 @@
+.port{
+    color: red;
+    font-size: 25px;
+}
+.folio{
+    color: white;
+    font-size: 25px;
+}
+.menu{
+    max-height: 100px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}

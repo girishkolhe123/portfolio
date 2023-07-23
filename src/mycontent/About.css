@@ -1,0 +1,166 @@
+#text1{
+    color: red;
+}
+#text2{
+    color: white;
+}
+
+.allc{
+    display: inline-block;
+    margin-top: 25px;
+}
+
+
+.car1b
+{
+    background-color:rgb(247, 210, 210);
+    
+    
+}
+
+.car1b:hover
+{
+    transform: scale(1.1);
+    transition: 1s ease;
+}
+
+.car1tf{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 25px;
+    
+}
+
+.car1bf{
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 20px;
+    color: black;
+    
+}
+
+.car2b
+{
+    background-color:rgb(247, 210, 210);
+}
+
+.car2b:hover
+{
+    transform: scale(1.1);
+    transition: 1s ease;
+}
+
+.car2tf{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+
+.car2bf{
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 20px;
+    color: black;
+}
+
+.car3b
+{
+    background-color:rgb(247, 210, 210);
+}
+
+.car3b:hover
+{
+    transform: scale(1.1);
+    transition: 1s ease;
+}
+
+.car3tf{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 25px;
+    
+}
+
+.car3bf{
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 20px;
+    color: black;
+}
+
+.car4b
+{
+    background-color:rgb(247, 210, 210);
+}
+
+.car4b:hover
+{
+    transform: scale(1.1);
+    transition: 1s ease;
+    
+}
+
+.car4tf{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+
+.car4bf{
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 20px;
+    color: black;
+}
+.clg{
+    margin-top: 20px;
+}
+
+.hrline{
+    border: 4px solid white;
+}
+
+
+
+.self{
+    height: 550px;
+    width: 450px;
+    border-radius: 50%;
+}
+.self:hover{
+    transform: scale(1.1);
+    transition: 1s ease-out;
+}
+.row1{
+    margin-top: 50px;
+    margin-bottom:0px;
+}
+.aboutme{
+    text-align: left;
+    font-size: 80px;
+    color: white;
+    margin-bottom: 20px;
+}
+#text4{
+    color: purple;
+}
+#text3{
+    font-size: 25px;
+    color: white;
+    text-align: left;
+    margin-bottom: 40px;
+    
+}
+p{
+    color: rgba(255, 255, 255, 0.701);
+    text-align: justify;
+}
+.button10:hover{
+    background-color: purple;
+    color: white;
+    transition: 1s;
+}
+.button10{
+    font-weight: bold;
+    font-size: 18px;
+    border-radius: 30px;
+    text-decoration: none; 
+    border: 3px solid purple;  
+    background-color: purple 
+}
